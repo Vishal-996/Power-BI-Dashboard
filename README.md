@@ -1,10 +1,11 @@
 **CREDIT CARD WEEKLY STATUS REPORT**
 
-Project Objective
+**Project Objective
+**
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
-Insights we get through these:
-
+**Insights we get through these:
+**
 1. Sales Performance Trends  
    - Monthly/Yearly growth trends in credit card sales.  
    - Comparison of sales across time periods to identify peak seasons or months.  
